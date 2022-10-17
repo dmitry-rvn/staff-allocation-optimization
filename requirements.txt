@@ -1,0 +1,5 @@
+jupyterlab
+scipy
+pandas
+# ortools
+# cvxpy
